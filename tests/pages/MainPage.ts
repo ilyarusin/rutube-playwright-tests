@@ -11,6 +11,8 @@ export class MainPage extends BasePage {
   private readonly headerAddButtonPopUpListLocator: Locator;
   private readonly headerNotificationsPopUpLocator: Locator;
   private readonly authorizationModalLocator: Locator;
+  private readonly menuButtonLocator: Locator;
+  private readonly openMenuAriaLocator: Locator;
 
   constructor(page: Page) {
     super(page);
@@ -38,10 +40,20 @@ export class MainPage extends BasePage {
       .locator('iframe[title="Multipass"]')
       .contentFrame()
       .locator('div[role="form"]');
+    this.menuButtonLocator = this.page.getByRole("button", {
+      name: "Открыть меню навигации",
+    });
+    this.openMenuAriaLocator = this.page.locator(
+      ".menu-content-module__content--open",
+    );
   }
 
   async open() {
     await this.page.goto("https://rutube.ru/");
+  }
+
+  async openFullMenu() {
+    await this.menuButtonLocator.click();
   }
 
   async headerHasCorrectAriaSnapshot() {
@@ -97,6 +109,12 @@ export class MainPage extends BasePage {
   async authorizationModalHasCorrectAriaSnapshot() {
     await expect(this.authorizationModalLocator).toMatchAriaSnapshot({
       name: "authorizationModalAriaSnapshot.yml",
+    });
+  }
+
+  async fullMenuHasCorrectAriaSnapshot() {
+    await expect(this.openMenuAriaLocator).toMatchAriaSnapshot({
+      name: "fullMenuAriaLocatorAriaSnapshot.yml",
     });
   }
 

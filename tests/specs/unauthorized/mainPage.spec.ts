@@ -22,6 +22,11 @@ test("Проверка доступности элементов попапа у
   await mainPage.notificationsPopUpHasCorrectAriaSnapshot();
 });
 
+test("Проверка доступности элементов раскрытого меню", async ({ mainPage }) => {
+  await mainPage.openFullMenu();
+  await mainPage.fullMenuHasCorrectAriaSnapshot();
+});
+
 test.skip("Проверка доступности элементов модального окна авторизации", async ({ mainPage }) => {
   await mainPage.openAuthorizationModal();
   await mainPage.authorizationModalHasCorrectAriaSnapshot();
