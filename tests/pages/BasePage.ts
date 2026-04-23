@@ -10,4 +10,8 @@ export class BasePage {
   async closeCookiesAlert() {
     await this.page.getByRole("button", { name: "Ок", exact: true }).click();
   }
+
+  async closePopUP() {
+    await this.page.getByRole("button", { name: "Закрыть попап" }).click();
+  }
 }
