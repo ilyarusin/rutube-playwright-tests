@@ -1,0 +1,32 @@
+- link "Иконка канала channel77875100 channel77875100 Добавьте номер телефона":
+  - /url: /profile/info/
+  - img "Иконка канала channel77875100":
+    - img "Иконка канала channel77875100"
+  - heading "channel77875100" [level=5]
+  - text: ""
+  - img
+- img
+- img "детский профиль"
+- heading "Создать детский профиль" [level=5]
+- link "Единый профиль":
+  - /url: https://account.gid.ru/office/profile
+  - img
+  - paragraph: Единый профиль
+  - img
+- list:
+  - listitem:
+    - link "Профиль":
+      - /url: /profile/
+  - listitem:
+    - link "Мой канал":
+      - /url: /channel/77875100/
+  - listitem:
+    - link "Студия RUTUBE":
+      - /url: https://studio.rutube.ru/
+- button "Изменить тему оформления":
+  - text: ""
+  - img
+  - img
+- button "Выйти из профиля":
+  - img
+  - text: ""
