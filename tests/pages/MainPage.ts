@@ -16,7 +16,7 @@ export class MainPage extends BasePage {
 
   constructor(page: Page) {
     super(page);
-    this.headerLocator = this.page.getByText("RUTUBEОформить подпискуВход");
+    this.headerLocator = this.page.locator('.wdp-header-module__header');
     this.categoriesTabsLocator = this.page.getByText(
       "ГлавнаяФильмыСериалыТелешоуСпортБлогерыМузыкаПодкастыДетямТВ онлайн",
     );

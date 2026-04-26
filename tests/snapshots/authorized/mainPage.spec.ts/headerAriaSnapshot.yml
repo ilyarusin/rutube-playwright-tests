@@ -1,0 +1,17 @@
+- banner:
+  - button "Открыть меню навигации":
+    - img
+  - button "RUTUBE":
+    - img "RUTUBE"
+  - textbox "Поиск"
+  - button "Отправить форму поиска"
+  - button "Добавить":
+    - img
+  - button "Уведомления":
+    - img
+  - button "перейти в безопасный режим":
+    - img
+  - button "Оформить подписку"
+  - button "Иконка канала channel77875100":
+    - img "Иконка канала channel77875100":
+      - img "Иконка канала channel77875100"

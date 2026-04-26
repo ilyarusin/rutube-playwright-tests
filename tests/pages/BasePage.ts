@@ -8,10 +8,21 @@ export class BasePage {
   }
 
   async closeCookiesAlert() {
-    await this.page.getByRole("button", { name: "Ок", exact: true }).click();
+    const cookieAlert = this.page.getByRole("button", {
+      name: "Ок",
+      exact: true,
+    });
+
+    if (await cookieAlert.isVisible()) {
+      await cookieAlert.click();
+    }
   }
 
   async closePopUP() {
-    await this.page.getByRole("button", { name: "Закрыть попап" }).click();
+    const popUp = this.page.getByRole("button", { name: "Закрыть попап" });
+
+    if (await popUp.isVisible()) {
+      await popUp.click();
+    }
   }
 }
