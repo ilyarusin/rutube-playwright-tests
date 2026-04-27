@@ -1,0 +1,749 @@
+{
+  "cookies": [
+    {
+      "name": "qrator_msid2",
+      "value": "v2.0.1777298190.807.b22c9931JXA9lc53|iVbeuJ5FnedXUEe5|uVOZcz6KS9M8d2LzvmD2LC8E+1G51hqTLBcdMzDxvfg0fmdJ+8g0xr+aTemjKjI/w0+d0rvyZA0TeLKEHQ4WWA==-hzipweQ+XHZO5srk215gybEqUuU=",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1777299190.526624,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "pi",
+      "value": "q48owPyJmNpZVHauo3W4TrgzuDdBMjXChsnrNyoadewxPwp3n34cncSzLxjQrnTiQxFlqZULeheMXpYWzJsDkpZqI6I=",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1811858193.268183,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://rutube.ru",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "i",
+      "value": "46Buvxf/x91uSfqYuEkxvOj8PVxtHKjRU1YiZIv4kUZv88vHyPinPJv6TEqemrJus/d9sEq9E9LnkyK2x/zBFBVjJUA=",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1811858193.268449,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yandexuid",
+      "value": "4072991461777298193",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1811858195.437412,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yashr",
+      "value": "958755281777298193",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1808834193,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://rutube.ru",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "uxs_uid",
+      "value": "e74cdb70-4240-11f1-bd83-85f2c917d965",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1811858195,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ym_uid",
+      "value": "1777298195276344305",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1808834195,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_d",
+      "value": "1777298195",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1808834195,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cid",
+      "value": "7087044901777298195",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1811858265,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "yuidss",
+      "value": "4072991461777298193",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1811858195.437561,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ymex",
+      "value": "2092658196.yrts.1777298196",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1808834196,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "receive-cookie-deprecation",
+      "value": "1",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1808834269,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://rutube.ru",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "yabs-sid",
+      "value": "705865001777298196",
+      "domain": "mc.yandex.ru",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uuid",
+      "value": "f91886e8-9e49-4888-81f0-192463f54748",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1811858266,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "wdpThemeId",
+      "value": "dark2021",
+      "domain": "rutube.ru",
+      "path": "/",
+      "expires": 1811858266.43844,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Strict"
+    },
+    {
+      "name": "session_id",
+      "value": "7087044901777298195_1777298196291",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1777300076,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "canary1",
+      "value": "{\"tags_predicto\":{\"active\":\"A\",\"term\":[{\"id\":44,\"label\":\"A\",\"percent\":100},{\"id\":45,\"label\":\"B\",\"percent\":100}]},\"new_player\":{\"active\":\"A\",\"term\":[{\"id\":50,\"label\":\"A\",\"percent\":100},{\"id\":51,\"label\":\"B\",\"percent\":100}]},\"ds_player\":{\"active\":\"A\",\"term\":[{\"id\":87,\"label\":\"A\",\"percent\":100},{\"id\":88,\"label\":\"B\",\"percent\":100}]},\"current_stage_ds\":{\"active\":\"A\",\"term\":[{\"id\":120,\"label\":\"A\",\"percent\":100},{\"id\":121,\"label\":\"B\",\"percent\":100}]}}",
+      "domain": "rutube.ru",
+      "path": "/",
+      "expires": 1801422000,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "AFFICHE_W",
+      "value": "eOKdY4ibnkR440",
+      "domain": ".weborama-tech.ru",
+      "path": "/",
+      "expires": 1811253396.623675,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_isad",
+      "value": "2",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1777370197,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "adsrv_id",
+      "value": "4h86ahq9tlbbtoijkm1m19q2kl",
+      "domain": "bs.serving-sys.ru",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "adsrv_u2",
+      "value": "4c3c4148-1c14-118d-8a11-01415e99c37d",
+      "domain": "bs.serving-sys.ru",
+      "path": "/",
+      "expires": 1811858198.965835,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "adsrv_s_",
+      "value": "64c31c14118d8a3a530",
+      "domain": "bs.serving-sys.ru",
+      "path": "/",
+      "expires": 1777384598.965921,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "_ym_visorc",
+      "value": "b",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1777300068,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "viuserid",
+      "value": "gpNEKEgv-HmU6TU7Zd9B",
+      "domain": ".dmg.digitaltarget.ru",
+      "path": "/",
+      "expires": 1811858200.814499,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "PVID",
+      "value": "3VHsmn1aXDYd00003U2zjSod:::0-0-0-f09c3d9-0-f09c3d9:CAASEHvzFfkSehNTgwJccS799FIaYK68gP8KhnzOtESjGF5k-mFZHM742P2wbIsPomFkt45Vrr2bT_VAn01e-Xsy6tnCm3XNAfZCxI8XamABcH-jgCQtVyxSq_N-ws4Zze8F-HjakFyh1GiqDCTHVunVIcWNMg",
+      "domain": "top-fwz1.mail.ru",
+      "path": "/",
+      "expires": 1808920600.916167,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://rutube.ru",
+      "_crHasCrossSiteAncestor": true
+    },
+    {
+      "name": "VID",
+      "value": "3VHsmn1aXDYd00003U2zjSod:::0-0-0-f09c3d9-0-f09c3d9:CAASEHvzFfkSehNTgwJccS799FIaYK68gP8KhnzOtESjGF5k-mFZHM742P2wbIsPomFkt45Vrr2bT_VAn01e-Xsy6tnCm3XNAfZCxI8XamABcH-jgCQtVyxSq_N-ws4Zze8F-HjakFyh1GiqDCTHVunVIcWNMg",
+      "domain": ".mail.ru",
+      "path": "/",
+      "expires": 1808920600.916489,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "ajs_anonymous_id",
+      "value": "3c835766-0167-4078-afec-87bdc2f483ec",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1808834261,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "IDP_ID",
+      "value": "ZTEwNjg2ZWMtODhhMi00NWQxLThjMDgtNGRhMTY2NTg3YTZi",
+      "domain": "auth.gid.ru",
+      "path": "/",
+      "expires": 1777300012.843106,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "goya",
+      "value": "eyJjaWQiOiI3MDg3MDQ0OTAxNzc3Mjk4MTk1Iiwic2Vzc2lvbl9pZCI6IjcwODcwNDQ5MDE3NzcyOTgxOTVfMTc3NzI5ODE5NjI5MSIsInByb2R1Y3RfbmFtZSI6InJ1dHViZSJ9",
+      "domain": "auth.gid.ru",
+      "path": "/",
+      "expires": 1777300012.843288,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "lftc",
+      "value": "eyJleHRlcm5hbF9pZCI6MzR9",
+      "domain": "auth.gid.ru",
+      "path": "/",
+      "expires": 1777300012.843389,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "trcv",
+      "value": "eyJjaWQiOiI3MDg3MDQ0OTAxNzc3Mjk4MTk1Iiwic2lkIjoiZDdiYmNjNzNjYjhhYWFhZTM4ZDhlNzg2ZWEyODE2ZWQ2NDdiOTI1MzJmNjFkMjlkZjE3NmE3MzM3YTYxMDY0YSIsInNlc3Npb25faWQiOiI3MDg3MDQ0OTAxNzc3Mjk4MTk1XzE3NzcyOTgxOTYyOTEiLCJwcm9kdWN0X25hbWUiOiJydXR1YmUiLCJleHRlcm5hbF9pZCI6MzR9",
+      "domain": "auth.gid.ru",
+      "path": "/",
+      "expires": 1777300012.843452,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "das_d_tag2",
+      "value": "710f6b1a-b90f-4895-bb24-ae59774096e1",
+      "domain": ".auth.gid.ru",
+      "path": "/",
+      "expires": 1811858215.170736,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "das_d_tag2_legacy",
+      "value": "710f6b1a-b90f-4895-bb24-ae59774096e1",
+      "domain": ".auth.gid.ru",
+      "path": "/",
+      "expires": 1811858215.170984,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "oxxfgh",
+      "value": "43252f94-0694-497d-a341-04a8c8f9acc7%230%232592000000%2345000%231800000%2322820",
+      "domain": "auth.gid.ru",
+      "path": "/",
+      "expires": 1779890260,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "uwyii",
+      "value": "c8fa2402-0164-52fb-6932-575c991edc0b",
+      "domain": "auth.gid.ru",
+      "path": "/",
+      "expires": 1811858215.299122,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "remixlang",
+      "value": "3",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1809302740.093861,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixuas",
+      "value": "OGQ2M2M2OTUxNjE1NTZmNDc3YmQ1ZTZj",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1808416222.449035,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixstid",
+      "value": "1263112242_ANVd2Wkn17aTlmZ3iA9jyczBW2JQGQAc6aZij1Ciq58",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1808717128.449117,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "prcl",
+      "value": "16580ea8394e06",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1777381017.094136,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "remixstlid",
+      "value": "9117631292627863267_IzfkF7ZEtytQbbColzgwcZctxCZ4Yz0KW20h9Q1X4Yw",
+      "domain": ".vk.ru",
+      "path": "/",
+      "expires": 1808834218.246538,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "uwyiert",
+      "value": "45254786-0a27-d0c1-6be9-55ce4e0a4a11",
+      "domain": ".auth.gid.ru",
+      "path": "/",
+      "expires": 1811858228.955389,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "jwt",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJydXBhc3NfaWQiOjczNDM2ODIxLCJlbWFpbF9jb25maXJtZWQiOnsidHlwZW9mIjoiYm9vbCIsInZhbHVlIjp0cnVlfSwiaGFzX3Bob25lIjp7InR5cGVvZiI6ImJvb2wiLCJ2YWx1ZSI6ZmFsc2V9LCJleHAiOjE3Nzk4OTAyNjIsIm9yaWdfaWF0IjoxNzc3Mjk4MjYyLCJ1c2VyX2lkIjo3Nzg3NTEwMCwiZGF0YSI6eyJ1c2VyX2luZm8iOnsiaWQiOjc3ODc1MTAwfX0sInVzZXJuYW1lIjoicGltaW5vZmYuaWxAeWFuZGV4LnJ1IiwiZW1haWwiOiJwaW1pbm9mZi5pbEB5YW5kZXgucnUiLCJuYW1lIjoiY2hhbm5lbDc3ODc1MTAwIiwicGFyZW50IjpudWxsLCJ0eXBlIjoiYWNjb3VudCIsImNvbnRleHQiOm51bGwsInRydXN0IjpbXSwic3VicyI6W119.1b3UVg6ft70JHB_k4NzmEFbSKaj5PqK_ZYgrouJP4i4",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1779890261.643882,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "refreshToken",
+      "value": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJydXBhc3NfaWQiOjczNDM2ODIxLCJleHAiOjE4MDg4MzQyNjIsInJlcXVlc3RfaWQiOiI4NjJhZDk1OS02YmE0LTQ2YTctYTE5Mi05ZjFiNzI3ZDg0NTEifQ.1GOqAKCw3MdvJDi8jT3T9sEprd6uTgPa58rkr7OjFq8",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1808834261.644031,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "visitorID",
+      "value": "77875100",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1808834261.644117,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "source_social",
+      "value": "gid",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1808834261.644174,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "csrftoken",
+      "value": "GjzKw1vUjdZ3dBoQFqddnMLSQLq4WW6g",
+      "domain": "rutube.ru",
+      "path": "/",
+      "expires": 1808747861.644227,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "psid2",
+      "value": "x9d0pb2quoh1p2t913ercup9l7f4qewc",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1779717467.010423,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "oxxfgh",
+      "value": "9372aa8c-8bcb-49e9-afb0-ac5865959f0c%230%232592000000%2345000%231800000%2322820",
+      "domain": "rutube.ru",
+      "path": "/",
+      "expires": 1779890262,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "uwyii",
+      "value": "d92ad2e7-659d-6d17-daed-4fe61deecb6c",
+      "domain": "rutube.ru",
+      "path": "/",
+      "expires": 1811858261.893555,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "uwyiert",
+      "value": "eb5e5ba5-57ef-6848-809c-f9b47319ebfa",
+      "domain": ".rutube.ru",
+      "path": "/",
+      "expires": 1811858262.660335,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "bh",
+      "value": "EkIiR29vZ2xlIENocm9tZSI7dj0iMTQ3IiwgIiBOb3Q7QSBCcmFuZCI7dj0iOTkiLCAiQ2hyb21pdW0iO3Y9IjE0NyIaA3g4NiIJMTQ3LjAuMC4wKgI/MDoJIldpbmRvd3MiQgQxMC4wSgI2NFI2IkNocm9taXVtIjt2PSIxNDcuMC43NzI3LjE1IiwiTm90LkEvQnJhbmQiO3Y9IjguMC4wLjAiYN3Wvc8Gah7cyuH/CJLYobEDn8/h6gP7+vDnDev//fYPm4fPhwg=",
+      "domain": ".yandex.ru",
+      "path": "/",
+      "expires": 1811858268.572738,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "cid",
+      "value": "AombKSD0sJ1XwfKXNznkVWw",
+      "domain": ".adriver.ru",
+      "path": "/",
+      "expires": 1811858269.228843,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://rutube.ru",
+      "localStorage": [
+        {
+          "name": "_ym_retryReqs",
+          "value": "{\"4\":{\"protocol\":\"https:\",\"host\":\"mc.yandex.ru\",\"resource\":\"watch/94863760\",\"postParams\":\"{\\\"profile-element_click-profil\\\":{\\\"cid\\\":\\\"7087044901777298195\\\",\\\"session_id\\\":\\\"7087044901777298195_1777298196291\\\",\\\"sso_source\\\":\\\"rutube\\\",\\\"screen_name\\\":\\\"/\\\",\\\"page_url\\\":\\\"https://rutube.ru/\\\",\\\"event_timestamp\\\":\\\"1777298276329\\\",\\\"event_timezone\\\":\\\"5\\\",\\\"user_auth\\\":\\\"1\\\",\\\"user_id\\\":\\\"77875100\\\",\\\"uuid\\\":\\\"f91886e8-9e49-4888-81f0-192463f54748\\\",\\\"user_subscription\\\":\\\"0\\\",\\\"user_subscription_id\\\":\\\"na\\\",\\\"device_type\\\":\\\"desktop\\\",\\\"isEmbed\\\":\\\"0\\\",\\\"touch_point\\\":\\\"web\\\",\\\"ab_name\\\":\\\"be6a3af5-fd14-429d.0|c022328b-4a72-41dc.3|001bb621-4b1d-402a.0|onb_c9cad130-dbb3-4834.1|573bc180-1c68-4809.1\\\",\\\"pageload_id\\\":\\\"1\\\",\\\"segment_id\\\":\\\"na\\\",\\\"event_name\\\":\\\"profile-element_click-profil\\\",\\\"event_label\\\":\\\"profil\\\",\\\"event_group\\\":\\\"event\\\",\\\"event_category\\\":\\\"profile\\\",\\\"event_action\\\":\\\"element_click\\\",\\\"event_element_location\\\":\\\"popup\\\",\\\"event_json\\\":\\\"na\\\",\\\"ab_variant\\\":\\\"na\\\",\\\"channel_id\\\":\\\"na\\\",\\\"content_category_id\\\":\\\"na\\\",\\\"content_id\\\":\\\"na\\\",\\\"content_in_list_position\\\":\\\"na\\\",\\\"content_list_id\\\":\\\"na\\\",\\\"content_list_position\\\":\\\"na\\\",\\\"content_playlist_id\\\":\\\"na\\\",\\\"content_subcategory_id\\\":\\\"na\\\",\\\"content_type\\\":\\\"na\\\",\\\"content_subscription\\\":\\\"na\\\",\\\"event_context\\\":\\\"na\\\",\\\"event_element_link\\\":\\\"na\\\",\\\"event_revenue\\\":\\\"na\\\",\\\"player_view_id\\\":\\\"na\\\",\\\"sso_id\\\":\\\"na\\\",\\\"safe_mode\\\":\\\"na\\\",\\\"api_method\\\":\\\"na\\\",\\\"batch_id\\\":\\\"na\\\"}}\",\"time\":1777298276486,\"counterType\":\"0\",\"params\":{\"page-url\":\"goal://rutube.ru/event\",\"page-ref\":\"https://rutube.ru/\",\"charset\":\"utf-8\",\"uah\":\"chu\\n\\\"Google Chrome\\\";v=\\\"147\\\",\\\" Not;A Brand\\\";v=\\\"99\\\",\\\"Chromium\\\";v=\\\"147\\\"\\ncha\\nx86\\nchb\\n64\\nchf\\n147.0.0.0\\nchl\\n\\\"Chromium\\\";v=\\\"147.0.7727.15\\\",\\\"Not.A/Brand\\\";v=\\\"8.0.0.0\\\"\\nchm\\n?0\\nchp\\nWindows\\nchv\\n10.0\",\"hidv2\":\"2210154193650450660\",\"hittoken\":\"1777298266_f5203380d99c22bf3a331d90eef8d0555aa91cbe026db13c3ff5dd3b2216a10b\"},\"browserInfo\":{\"ar\":1,\"vf\":\"6glgxny3ywoixqvpwypw9eums2yu7\",\"fu\":3,\"en\":\"utf-8\",\"la\":\"en-US\",\"v\":\"2482\",\"cn\":2,\"dp\":0,\"ls\":410015449049,\"hid\":103162587,\"z\":300,\"i\":\"20260427185756\",\"et\":1777298276,\"c\":1,\"rn\":863121656,\"rqn\":12,\"u\":\"1777298195276344305\",\"w\":\"1274x720\",\"s\":\"1280x720x32\",\"sk\":1.0000000149011612,\"wv\":2,\"co\":0,\"cpf\":1,\"eu\":0,\"ns\":1777298262241,\"t\":\"RUTUBE - смотреть видео онлайн, бесплатно..\",\"adb\":\"2\",\"pp\":\"3629563401\",\"rqnl\":1,\"st\":1777298276},\"counterId\":94863760,\"ghid\":103162587,\"telemetry\":{\"gdpr\":\"14\",\"mc\":\"ci-1-h-2-g-9-p-3\",\"clc\":\"4-1138-181\",\"rqnt\":7,\"aw\":1,\"rcm\":0,\"ecs\":0,\"cdl\":\"na\",\"eco\":46203396,\"oms\":\"7\",\"prs\":2,\"wss\":2,\"w2s\":0,\"evs\":\"NTMxODIyOTc6MDo3LDk0ODYzNzYwOjA6Nyw4NzM0MjEwNjowOjcsNTMxODIyOTc6MDo4LDUzMTgyMjk3OjA6OSw4NzM0MjEwNjowOjksOTQ4NjM3NjA6MDo5\",\"evt\":2471,\"ti\":1}}}"
+        },
+        {
+          "name": "TN1YmY3IWYxUWN2gTYjZDMwYzYmJzND3_D3_wYlhDNxMWY3EGMkVWN5QTYjF",
+          "value": "QUVyY0ckdkVrhVM5w2cK9WOXllax4GRYR1VmJjV3EDM1lmeWFDSmNXSVN0bxBlTvV2XD3_IjRSdWRhVDUX9lMCVmYyR0Si1GeQJXOyw2Zv50d4tUNfJjRux2VFFFVTF1XzQ0Xz"
+        },
+        {
+          "name": "current_session_id",
+          "value": "7087044901777298195_1777298196291"
+        },
+        {
+          "name": "persisted-queue:v1:web_sso:p:5dd6d752-522a-4852-add6-c5f0a5983bfd:dest-Segment.io:seen",
+          "value": "{\"83576601-6770-486f-ac87-bdc2f483ec35\":1}"
+        },
+        {
+          "name": "_ym53182297_il",
+          "value": "\"Профиль\""
+        },
+        {
+          "name": "_ym87342106_lsid",
+          "value": "787858153142"
+        },
+        {
+          "name": "UXS_updated_time",
+          "value": "1777298274102"
+        },
+        {
+          "name": "_ym53182297:0_reqNum",
+          "value": "16"
+        },
+        {
+          "name": "cid",
+          "value": "7087044901777298195"
+        },
+        {
+          "name": "_ym94863760:0_reqNum",
+          "value": "12"
+        },
+        {
+          "name": "freyr-theme-value",
+          "value": "dark"
+        },
+        {
+          "name": "ajs_anonymous_id",
+          "value": "\"3c835766-0167-4078-afec-87bdc2f483ec\""
+        },
+        {
+          "name": "sigmaGeoData",
+          "value": "{\"country\":\"Russian Federation\",\"code\":\"RU\",\"state\":\"Orenburgskaya oblast'\",\"city\":\"Orenburg\",\"ip\":\"178.44.153.49\"}"
+        },
+        {
+          "name": "sigmaExpiration",
+          "value": "{\"profileId\":1777384665607}"
+        },
+        {
+          "name": "_ym94863760_lsid",
+          "value": "410015449049"
+        },
+        {
+          "name": "sigmaUserData",
+          "value": "{\"userId\":\"7087044901777298195\",\"profileId\":\"77875100\",\"deviceId\":null,\"ip\":null,\"email\":null,\"appVersion\":null,\"geo\":{\"country\":\"Russian Federation\",\"code\":\"RU\",\"state\":\"Orenburgskaya oblast'\",\"city\":\"Orenburg\",\"ip\":\"178.44.153.49\"},\"browser\":{\"name\":\"Chrome\",\"version\":\"147.0.0.0\"},\"os\":{\"name\":\"Windows\",\"version\":\"10\"},\"custom\":{},\"time\":493693.9626686111,\"date\":20570,\"deviceCategory\":\"desktop\",\"domain\":\"rutube.ru\",\"url\":\"https://rutube.ru/\",\"query\":\"\",\"pathname\":\"/\"}"
+        },
+        {
+          "name": "pageLoadCount",
+          "value": "1"
+        },
+        {
+          "name": "UXS_session_value",
+          "value": "21"
+        },
+        {
+          "name": "sigmaDataFile",
+          "value": "{\"experiments\":[{\"name\":\"be6a3af5-fd14-429d\",\"is_private\":true,\"salt\":\"027ee7f71553abc3e89ead7fa7f54d5eb7da6c4c\",\"layer_id\":null,\"layer_allocation\":0,\"layer_bounds\":[],\"forced_user_list\":[],\"allocation\":1,\"groups\":[{\"name\":\"a\",\"weight\":0.5,\"forced_user_list\":[\"88175404861741606094\"]},{\"name\":\"b\",\"weight\":0.5,\"forced_user_list\":[\"58089386081736424151\",\"23101540641751535211\",\"8446285691765203556\",\"L_qpC5_HQ-G3gG7WERS6xQ\",\"65da8366-c3a9-48bc-be47-236fbe3b965a\",\"9304992131775480472\"]}],\"params\":[],\"feature_flags\":[{\"name\":\"new_preview\",\"type\":\"bool\",\"groups\":[{\"group\":\"a\",\"rules\":[{\"id\":\"75949004-b421-4b2d-966e-eeb9849c5b98\",\"is_default\":true,\"value\":\"false\",\"conditional_statement\":\"OR\",\"conditions\":[]}]},{\"group\":\"b\",\"rules\":[{\"id\":\"c14b54e8-df8b-47c7-b538-7b4f9bdf074a\",\"is_default\":true,\"value\":\"true\",\"conditional_statement\":\"OR\",\"conditions\":[]}]}]}],\"platform\":\"all\",\"platforms\":[\"web\"],\"targets\":{\"conditions\":[],\"conditional_statement\":\"OR\"},\"split_by\":\"userId\",\"type\":1},{\"name\":\"adddevice_1544d87f-61c1-48e4\",\"is_private\":true,\"salt\":\"07a5008a869b35ebf4f0f6a250aa00189f37787d\",\"layer_id\":null,\"layer_allocation\":0,\"layer_bounds\":[],\"forced_user_list\":[],\"allocation\":0.1,\"groups\":[{\"name\":\"a\",\"weight\":0.5,\"forced_user_list\":[]},{\"name\":\"b\",\"weight\":0.5,\"forced_user_list\":[]}],\"params\":[{\"name\":\"has_add_device_popup\",\"type\":\"bool\",\"id\":\"270c7f10-2028-49b4-be4c-a840041cf2f4\",\"values\":[{\"group\":\"a\",\"value\":\"false\"},{\"group\":\"b\",\"value\":\"true\"}]}],\"feature_flags\":[],\"platform\":\"all\",\"platforms\":[\"web\"],\"targets\":{\"conditions\":[],\"conditional_statement\":\"OR\"},\"split_by\":\"profileId\",\"type\":2},{\"name\":\"c022328b-4a72-41dc\",\"is_private\":true,\"salt\":\"cc0c104d8e0222fa20dc0097d8e5419c9c6f79ca\",\"layer_id\":null,\"layer_allocation\":0,\"layer_bounds\":[],\"forced_user_list\":[\"40978418741702992981\"],\"allocation\":1,\"groups\":[{\"name\":\"a\",\"weight\":0,\"forced_user_list\":[\"74068594851707302147\",\"1869473361750334766\",\"40978418741702992981\",\"91314843301761900710\",\"19900515841696860070\",\"1825675661761898774\",\"36018592521761904612\",\"66089912961696843648\",\"31060148631760507329\",\"80062871921761979041\",\"35771895731760513972\",\"79294440391698937603\",\"19207862191758807177\",\"86220812981761391233\",\"52654831631701082806\",\"68694825881772717448\"]},{\"name\":\"b\",\"weight\":0,\"forced_user_list\":[\"95581168961761908312\",\"9760759541747840510\",\"64250012641722587202\",\"9050819581700066992\",\"65587615441761909316\",\"20124521901719230051\",\"75102922341763451314\",\"42306938021763641163\",\"24305121371763641126\",\"20486999131763639994\",\"77781947661763640958\",\"2138719021761292427\",\"49977031781707910194\",\"9521647441731512691\",\"91442729791759755409\",\"97564305901743603625\",\"75766321631749223774\",\"64035047481725360621\",\"68694825881772717448\",\"39220239311770824842\"]},{\"name\":\"c\",\"weight\":0.5,\"forced_user_list\":[\"70302268851764329702\",\"73020959161773728488\",\"502480421760428348\"]},{\"name\":\"d\",\"weight\":0.5,\"forced_user_list\":[\"746655291773844483\",\"12056607781773647507\",\"40978418741702992981\",\"34633388461774250985\",\"36123302091775659153\"]}],\"params\":[],\"feature_flags\":[{\"name\":\"auth_type\",\"type\":\"string\",\"groups\":[{\"group\":\"a\",\"rules\":[{\"id\":\"6c39524a-58fe-436f-9ce4-b5731c5b15f3\",\"is_default\":true,\"value\":\"gid_sso\",\"conditional_statement\":\"OR\",\"conditions\":[]}]},{\"group\":\"b\",\"rules\":[{\"id\":\"1e551e60-7b03-4375-8b00-2734fa8a4e6b\",\"is_default\":true,\"value\":\"gid_otp\",\"conditional_statement\":\"OR\",\"conditions\":[]}]},{\"group\":\"c\",\"rules\":[{\"id\":\"cf546695-f10e-4098-a7f1-2d7e23021ddb\",\"is_default\":true,\"value\":\"rutube\",\"conditional_statement\":\"OR\",\"conditions\":[]}]},{\"group\":\"d\",\"rules\":[{\"id\":\"0419f798-1d7d-48b0-befa-5b80d0a63818\",\"is_default\":true,\"value\":\"in_tab\",\"conditional_statement\":\"OR\",\"conditions\":[]}]}]}],\"platform\":\"all\",\"platforms\":[\"web\"],\"targets\":{\"conditions\":[],\"conditional_statement\":\"OR\"},\"split_by\":\"userId\",\"type\":1},{\"name\":\"001bb621-4b1d-402a\",\"is_private\":true,\"salt\":\"b47baa30ac723bb84608e405659ad0021bb72fd6\",\"layer_id\":null,\"layer_allocation\":0,\"layer_bounds\":[],\"forced_user_list\":[],\"allocation\":1,\"groups\":[{\"name\":\"a\",\"weight\":0.5,\"forced_user_list\":[\"64334131561775134712\"]},{\"name\":\"b\",\"weight\":0.5,\"forced_user_list\":[\"64334131561775134713\",\"2678551051748964721\",\"6452723661774951812\",\"36123302091775659153\"]}],\"params\":[{\"name\":\"ruwiki_videocategory\",\"type\":\"json\",\"id\":\"06d14020-8eef-4d4b-9c53-ff9e0f9c8714\",\"values\":[{\"group\":\"a\",\"value\":\"[]\"},{\"group\":\"b\",\"value\":\"[\\\"education\\\"]\"}]}],\"feature_flags\":[],\"platform\":\"all\",\"platforms\":[\"web\"],\"targets\":{\"conditions\":[],\"conditional_statement\":\"OR\"},\"split_by\":\"userId\",\"type\":2},{\"name\":\"onb_c9cad130-dbb3-4834\",\"is_private\":true,\"salt\":\"11203271209c3cdf5e6e1d1f0c13551b0dc3fd6c\",\"layer_id\":null,\"layer_allocation\":0,\"layer_bounds\":[],\"forced_user_list\":[],\"allocation\":1,\"groups\":[{\"name\":\"a\",\"weight\":0.5,\"forced_user_list\":[]},{\"name\":\"b\",\"weight\":0.5,\"forced_user_list\":[]}],\"params\":[{\"name\":\"flag\",\"type\":\"bool\",\"id\":\"ce57ae5f-6114-4f7e-9fb3-76e7933e3bc0\",\"values\":[{\"group\":\"a\",\"value\":\"false\"},{\"group\":\"b\",\"value\":\"true\"}]}],\"feature_flags\":[],\"platform\":\"all\",\"platforms\":[\"web\"],\"targets\":{\"conditions\":[],\"conditional_statement\":\"OR\"},\"split_by\":\"profileId\",\"type\":2},{\"name\":\"573bc180-1c68-4809\",\"is_private\":true,\"salt\":\"d618c44757682578fdb800721b555b90fc48a10d\",\"layer_id\":null,\"layer_allocation\":0,\"layer_bounds\":[],\"forced_user_list\":[],\"allocation\":1,\"groups\":[{\"name\":\"a\",\"weight\":0.5,\"forced_user_list\":[]},{\"name\":\"b\",\"weight\":0.5,\"forced_user_list\":[\"80157215271772438303\",\"28672302921772446323\",\"97564305901743603625\",\"23545724841759848179\",\"1772393591772715277\"]}],\"params\":[],\"feature_flags\":[{\"name\":\"button_flag\",\"type\":\"string\",\"groups\":[{\"group\":\"a\",\"rules\":[{\"id\":\"5bf095b5-7ed2-4e34-a0cd-ec86a852a43b\",\"is_default\":true,\"value\":\"[     {         \\\"productCode\\\": \\\"RUTUBE_START\\\",         \\\"buttonText\\\": \\\"Оформить RUTUBE X START\\\",         \\\"icon\\\": \\\"https://rutube.ru/static/img/svg/rutube-start.svg\\\",         \\\"buttonColor\\\": \\\"#00A1E7\\\",         \\\"buttonTextColor\\\": \\\"#FFFFFF\\\"     },     {         \\\"productCode\\\": \\\"PREMIER_RUTUBE_YAPPY\\\",         \\\"buttonText\\\": \\\"Оформить RUTUBE × PREMIER\\\",         \\\"icon\\\": \\\"https://rutube.ru/static/img/svg/rutube-premier.svg\\\",         \\\"buttonColor\\\": \\\"#00A1E7\\\",         \\\"buttonTextColor\\\": \\\"#FFFFFF\\\"     } ]\",\"conditional_statement\":\"OR\",\"conditions\":[]}]},{\"group\":\"b\",\"rules\":[{\"id\":\"59f1079c-81ef-4db1-b88d-efa958808d12\",\"is_default\":true,\"value\":\"[     {         \\\"productCode\\\": \\\"RUTUBE_START\\\",         \\\"buttonText\\\": \\\"Оформить RUTUBE X START\\\",         \\\"icon\\\": \\\"https://static.rutube.ru/static/img/svg/metainfo_icon.svg\\\",         \\\"buttonColor\\\": \\\"#FF1F35\\\",         \\\"buttonTextColor\\\": \\\"#FFFFFF\\\"     },     {         \\\"productCode\\\": \\\"PREMIER_RUTUBE_YAPPY\\\",         \\\"buttonText\\\": \\\"Оформить RUTUBE × PREMIER\\\",         \\\"icon\\\": \\\"https://static.rutube.ru/static/img/svg/metainfo_icon_black.svg\\\",         \\\"buttonColor\\\": \\\"#FDDD2D\\\",         \\\"buttonTextColor\\\": \\\"#141414\\\"     } ]\",\"conditional_statement\":\"OR\",\"conditions\":[]}]}]}],\"platform\":\"all\",\"platforms\":[\"web\"],\"targets\":{\"conditions\":[],\"conditional_statement\":\"OR\"},\"split_by\":\"userId\",\"type\":1}],\"feature_flags\":[{\"name\":\"var\",\"type\":\"string\",\"is_private\":true,\"rules\":[{\"id\":\"52A1E4E9-EEF1-4164-AFDF-FC7F3BCBF4CF\",\"is_default\":true,\"value\":\"\",\"conditional_statement\":\"-\",\"conditions\":[]}]},{\"name\":\"f_var\",\"type\":\"string\",\"is_private\":true,\"rules\":[{\"id\":\"02BE6F0E-1C16-4D98-BADF-ACB0A3DF6F09\",\"is_default\":true,\"value\":\"\",\"conditional_statement\":\"-\",\"conditions\":[]}]}]}"
+        },
+        {
+          "name": "sigmaPrivateId",
+          "value": "5ku2QvM3IVS9G08CyLs2eUte71M9zLnwzUQhWceyitiOa0hoJSC2V41W0FLgGp4zKzJMEfOeE3mx4Dvo"
+        },
+        {
+          "name": "sigma_group_c022328b-4a72-41dc",
+          "value": "d"
+        },
+        {
+          "name": "persisted-queue:v1:web_sso:p:5dd6d752-522a-4852-add6-c5f0a5983bfd:dest-Segment.io:items",
+          "value": "[{\"id\":\"83576601-6770-486f-ac87-bdc2f483ec35\",\"event\":{\"timestamp\":\"2026-04-27T13:56:52.780Z\",\"integrations\":{},\"event\":\"sdk-eventAuthFlowStarted\",\"type\":\"track\",\"properties\":{\"name\":\"eventAuthFlowStarted\",\"sid\":\"d7bbcc73cb8aaaae38d8e786ea2816ed647b92532f61d29df176a7337a61064a\",\"user_agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36\",\"event_category\":\"auth\",\"event_action\":\"button_click\",\"event_label\":\"init\",\"event_name\":\"auth-button_click-init\",\"screen_size\":\"1280x720\",\"event_timestamp\":\"1777298212542\",\"event_timezone\":\"5\",\"page_url\":\"https://rutube.ru/multipass/login/\",\"screen_name\":\"/multipass/login/\",\"event_group\":\"event\",\"event_element_location\":\"webview\",\"touch_point\":\"web\",\"cid\":\"7087044901777298195\",\"session_id\":\"7087044901777298195_1777298196291\",\"product_name\":\"rutube\",\"sf\":true,\"client\":\"web_sso:p:5dd6d752-522a-4852-add6-c5f0a5983bfd\",\"req_id\":\"fbbcfd51-a265-447c-beec-58f08f2d4503\",\"qr_flow\":false,\"external_id\":\"34\",\"ver\":\"1.2\",\"popup\":false,\"flow_name\":\"glavnaya\",\"sdk\":\"'1.2.6'\"},\"context\":{\"traits\":{\"writeKey\":\"web_sso:p:5dd6d752-522a-4852-add6-c5f0a5983bfd\"},\"page\":{\"path\":\"/multipass/login/\",\"referrer\":\"https://rutube.ru/\",\"search\":\"?client=wdp&referer=https%3A%2F%2Frutube.ru%2F&themeId=dark2021&snake-startForm=gid-otp-init&context=glavnaya&ab_name=be6a3af5-fd14-429d.0%7Cc022328b-4a72-41dc.3%7C001bb621-4b1d-402a.0%7C573bc180-1c68-4809.1&new-next=https%3A%2F%2Frutube.ru%2F\",\"title\":\"Multipass\",\"url\":\"https://rutube.ru/multipass/login/?client=wdp&referer=https%3A%2F%2Frutube.ru%2F&themeId=dark2021&snake-startForm=gid-otp-init&context=glavnaya&ab_name=be6a3af5-fd14-429d.0%7Cc022328b-4a72-41dc.3%7C001bb621-4b1d-402a.0%7C573bc180-1c68-4809.1&new-next=https%3A%2F%2Frutube.ru%2F\"},\"userAgent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36\",\"userAgentData\":{\"brands\":[{\"brand\":\"Google Chrome\",\"version\":\"147\"},{\"brand\":\" Not;A Brand\",\"version\":\"99\"},{\"brand\":\"Chromium\",\"version\":\"147\"}],\"mobile\":false,\"platform\":\"Windows\"},\"locale\":\"en-US\",\"library\":{\"name\":\"analytics.js\",\"version\":\"npm:next-1.81.1\"},\"campaign\":{},\"timezone\":\"Asia/Yekaterinburg\"},\"messageId\":\"ajs-next-1777298212780-b93c8357-6601-4770-b86f-ec87bdc2f483\",\"anonymousId\":\"3c835766-0167-4078-afec-87bdc2f483ec\"},\"logs\":[],\"metrics\":[]}]"
+        },
+        {
+          "name": "sigmaExperiments",
+          "value": "be6a3af5-fd14-429d.0|c022328b-4a72-41dc.3|001bb621-4b1d-402a.0|onb_c9cad130-dbb3-4834.1|573bc180-1c68-4809.1"
+        },
+        {
+          "name": "_ym94863760_il",
+          "value": "\"Профиль\""
+        },
+        {
+          "name": "sigmaHash",
+          "value": "f0bfbc109ddbd046740247104560167aeab63c473c7cd2b750427696b9704e16"
+        },
+        {
+          "name": "_ym_synced",
+          "value": "{}"
+        },
+        {
+          "name": "_ym87342106:0_reqNum",
+          "value": "2"
+        },
+        {
+          "name": "fingerprintId",
+          "value": "af0283bf9794bdd2c95d26b09ee9be92"
+        },
+        {
+          "name": "_ym53182297_lsid",
+          "value": "129093307825"
+        },
+        {
+          "name": "session_id",
+          "value": "{\"value\":\"7087044901777298195_1777298196291\",\"expires\":\"2026-04-27T14:27:56.330Z\"}"
+        },
+        {
+          "name": "_ym_uid",
+          "value": "\"1777298195276344305\""
+        },
+        {
+          "name": "uxs_uid",
+          "value": "{\"e74cdb70-4240-11f1-bd83-85f2c917d965\":1777298195111}"
+        },
+        {
+          "name": "pageLoadSessionId",
+          "value": "7087044901777298195_1777298196291"
+        },
+        {
+          "name": "cookie_geo_consent",
+          "value": "1"
+        },
+        {
+          "name": "sigmaDataFileLastUpdate",
+          "value": "1777298268"
+        },
+        {
+          "name": "weioruty",
+          "value": "{\"session\":{\"id\":\"9372aa8c-8bcb-49e9-afb0-ac5865959f0c\",\"P\":true,\"la\":\"server\"},\"loginCount\":0,\"settings\":{\"baiting\":{\"configurationId\":\"446f8d2e-8901-4a10-b141-491a2c7797cf\",\"requestIntervalMs\":2500,\"sets\":[{\"pages\":[{\"hash\":\"dc6579f059644330876665454cb88de5f0bb0b6f\",\"id\":\"d2bd655f-370c-46ee-872c-858c0bfd3bfa\",\"url\":\"https://romanovka.fp.kaspersky-labs.com/ahY5paib/d2bd655f-370c-46ee-872c-858c0bfd3bfa?touchbank.com/lk**touchbank.com/lk/login**touchbank.com/lk/transactions/trans**touchbank.com/lk/cards/account\"},{\"hash\":\"d19792e4a136d5731b108fbe3691440f417d9b33\",\"id\":\"33df4639-6425-410a-a1b0-c1af6fe676f1\",\"url\":\"https://romanovka.fp.kaspersky-labs.com/ahY5paib/33df4639-6425-410a-a1b0-c1af6fe676f1?*wellsfargo.com/**banquepopulaire.fr/**www.unfcu.org**e-gold.com/acct/login.asp**/accesd.desjardins.com**moneybookers.com/app/login.pl**/bgzweb/auth/login/sub**/easypay.by/**.entropay.com/basemenu/prot/**poste.it/**commerceonlinebanking.com**usaa.com/**ipko.pl**fineco.it/**bnpparibas.net/**bancaintesa.it/**cibc.com*SignOn**abbeynational.co.uk/EBAN_ENS/BtoChannelDriver*http*easywebsoc.td.com*http*pnc.com*http*://*suntrust.com/*http*bmo.com*http*capitalone.com*http*://*chase.com/**paypal.com*http*cibconline.cibc.com**.smile.co.uk/SmileWeb/login.do*ybonline.co.uk/ralu/reglm-web/setupSecurityQuestionPage**onlinebanking.capitalone.com/capitalone/login.aspx*nationet.com/AppServices/SignOn/SignOnProcess/RcaSignOn**hsbc.com**royalbank.com/wps/myportal**bmo.com**tdcanadatrust.com**servicing*capitalone*accounts**americanexpress.com/myca/*accountSummary.do**ceowt.wellsfargo.com**usbank.com/internetBanking/RequestRouter*schwab.com/**discovercard.com/**tdameritrade.com/**pnc.com/**wachovia.com/**53.com/**login.fidelity.com/ftgw/Fas/Fidelity/RtlCust/Login/Init?AuthRedUrl=**accountonline.com/**huntington.com/**scottrade.com/**personal.vanguard.com/us/hnwnesc/nesc/LoginPage?**scotiaonline.scotiabank.com/**creditcards.citi.com/**personal.vanguard.com/us/home?fromPage=portal*cibc.com/**americanexpress.com/**td.com/waw/idp/login.htm?**royalbank.com/cgi-bin/rbaccess/rbunxcgi*http*://*bankofamerica.com/**key.com/**bvi.bnc.ca/auth/Login**signin.ebay.com/ws/eBayISAPI.dll?SignIn*\"},{\"hash\":\"4c5fc969ad24643849a67d0395fdb5b17a89a37a\",\"id\":\"65f7c1c6-d3f4-48bc-b0e3-fec8d0c39175\",\"url\":\"https://romanovka.fp.kaspersky-labs.com/ahY5paib/65f7c1c6-d3f4-48bc-b0e3-fec8d0c39175?*onlinebanking.tdbank.com/*ebanking-services.com.*.aspx*chase.com/**wellsfargo.com/**online.citibank.com/**in-biz.it/**mybusinessbank.co.uk**bankcardservices.co.uk*co-operativebank.co.uk**cahoot.com*http*://*online.ybs.co.uk**npbs.co.uk**mbna.co.uk**.nationet.com/**ib.fineco.it/FinecoWeb/jsp/Main/HBFineco.jsp**altergold.com/login.php**smile.**alliance-leicester*http*://*credem.it/OneToOne/ebank/functions*chaseonline.chase.com/gw/secure/enaonline.wellsfargo.com/das/cgi-bin/session.cgi?sessargs=+online.citibank.com/.*/(.*/portal/Home.do|.*/ain/dashboard/flow.action|signon/ProcessUsernameSignon.do|signon/Agreement.do|signon/CheckTandC.do)myaccounts.navyfederal.org/NFCU/accounts/accountsummarywellsoffice.wellsfargo.com/ceoportal/signon/index.jsptroweprice.com/(rws/participants/apps/segment.jsp?name=iverify|rws/participants/apps/segments/iverify/iverify.do|.*rws/participants/goto/myaccount/|.*rws/participants/goto/my account/)us.etrade.com/.*/accounts/accountscombodiscovercard.com/cardmembersvcs/personalprofile/pp/MyProfilePage*royalbank.com**moneybookers.com/app/login.pl*frostcashmanager.com/pub/html/login.htmlcmo.cibc.com/wp/wps/portalwww8.comerica.combusinessonline.huntington.comgateway.firstbanks.com/pub/html/login.htmlinvest.ameritrade.com/grid/p/sitenetconnect.bokf.com/bbwsignatureny.web-access.com/signatbankofamerica.com/customer/manageContacts/view-profile.goonlinebanking.usbank.com/.*/CustomerDashboard/Index\"},{\"hash\":\"e256f0e14e1b2e66257d2f2942756734cd6a63ce\",\"id\":\"a503cbc3-6b8e-41f4-8129-8110c8871752\",\"url\":\"https://romanovka.fp.kaspersky-labs.com/ahY5paib/a503cbc3-6b8e-41f4-8129-8110c8871752?cashproonline.bankofamerica.comsso.unionbank.com/obc/forms/password.fccktt.key.com/ktt/cmd/logonrabobank.web-cashplus.com/pub/html/login.htmlwww.treasury.pncbank.com/idp/esec/login.ht/onlineserv/CMbusinessaccess.citibank.citigroup.com/cbusol/signon.dowww.scotiaconnect.scotiabank.com/.*.(jsp|bns)client.schwab.com/Accounts/hwtreasurysolution.com/pub/html/login.htmlamazon.com/ap/signin(businessbanking|businessbankingsoc).tdcommercialbanking.com/WBB/Loginsuntrust.com/portal/server.pt?space=Login*banking.bank1saar.de*fiabusinesscard.com/cgi-bin/ias/A/hsbccreditcard.com/ecare/viewaccounthrsaccount.com/hrs/ecare;jsessionidcitizensbankonline.com/efs/servlet/efsonline/index.jspinternetbanking.suncorpbank.com.au/.*/Accountscapitalonecardservice.com/ecare/onlinebanking.pnc.com/alservlet/MyAccountsServletocfcu.org/tob/live/usp-core/app/homeconsumercenter.gogecapital.com/consumercenter/homeaction.doonlineaccess1.com/.*/Accounts/AccountOverview.aspxibsnetaccess.com/NASApp/NetAccess/RegisteredAccountsDisplaywww.53.com/siteeasyweb.*.tdcanadatrust.com/.*(MaintainSecurityOptions|FinancialSummary|ChangeAddressDisplay).*secure.ally.com/allyWebClient/updatePersonalInformation.dofps.fidelity.com/ftgw/Fps/Fidelity/RSAAnalyzeChallengeRetail/Maintain/Initus.hsbc.com/1/2/!ut/servicing.capitalone.com/C1/Accounts/Summary.aspxibsnetaccess.com/NASApp/NetAccess/(ProfileMenu|RegisteredAccountsDisplay)bankofamerica.com/customer/changeAddressPhone/ibsnetaccess.com/NASApp/NetAccess/ProfileMenu\"},{\"hash\":\"323913e939ec62411ddca02f8f51b78a2c32eac1\",\"id\":\"04633925-91af-48e4-962a-16bf4c9ba302\",\"url\":\"https://romanovka.fp.kaspersky-labs.com/ahY5paib/04633925-91af-48e4-962a-16bf4c9ba302?securebank.regions.com/custservices/ChangeQuestionAnswers.aspxonlinebanking.tdbank.com/accts/getAccts.aspusaa.com/inet/(ent_securityprefs/SecurityPreferences|ent_auth_secques/SecurityPreferences)*online.westpac.com.au/esis/Login/SrvPag*(access.jpmorgan.com/jpmalogon|access.jpmorgan.com/jpmaonline|jpmorganaccess.com|tssportal.jpmorgan.com)*dafbanking.deutsche-bank.pt*https*internetbanking.gad.de*http*dab-bank.de**personal.vanguard.com/us/home?fromPage=portal*key.com/*http*://sitekey.bankofamerica.com/*/signonSetup.do*schwab.com/**personal.vanguard.com/us/hnwnesc/nesc/LoginPage?*https*banking.sparda.de**usbank.com/internetBanking/RequestRoutercommerceconnections.commercebank.com/ibank/cmserver/welcome/default/verify.cfmtdetreasury.tdbank.comrbs.com/wps/portal/(cb|cob)*kunde.comdirect.de**raiffeisen*.at/group/club**netbanking.sparkasse.at/sportal/**.de/portal/portal**.chase.com/MyAccounts*securebank.regions.com/balances/AccountSummary.aspxbankofamerica.com/customer/changeAddressPhone/!chaseonline.chase.com/gw/secure/enabarclaycardus.com/servicing/accountSummaryibank.pcs-sd.net/onlinebanking.*/acctlist.wasdtkn=onlinebanking.pnc.com/alservlet/MyAccountsServlet*ebanking.bawag.com*http*://*mijn.ing.nl/**.npbs.co.uk/netmastergoldbanking/**secure.lloydstsb.co.uk/personal/a/account_overview**.nwolb.*login.aspx?refererident**psk.co.at/*banking.postbank.de/rai/cryptbanking.ing-diba.de/app/loginonline.mbank.pl/plptlweb/WebPortal*meine.norisbank.de/trxm/noris*http*targobank.de/*\"},{\"hash\":\"0f9601c1912480f86cd1ebb3d6c41a9e5fdc2fd9\",\"id\":\"8a723953-fb71-4c77-bb46-54597c509962\",\"url\":\"https://romanovka.fp.kaspersky-labs.com/ahY5paib/8a723953-fb71-4c77-bb46-54597c509962?*hsbc.com**myaccount/INGDirect/login_pinpad.vm**rabobank.nl**mijn.ing.nl**bancoestado.cl/*/13960.asphttp*://*my.hypovereinsbank.de/**chase.com**citibank**moneybookers.com/app/login.pl*disabled://direct1.82bank.co.jp/HCIH0*/BankIH**ptlweb/webportal**commerzbank.de**banking.sparda.de/wps/loggedout.jsp**netbank.de**wellsfargo.com/**.de/portal/portal/**paypal.com*http*://*wellsfargo.com/*http*://*mijn.ing.nl/*http*://*bankofamerica.com/**online.wellsfargo.com/das/cgi-bin/session.cgi**.de/cgi/login.cgi\"},{\"hash\":\"6baa6f37d4208ab5be5cbb68ef5492cce54666ba\",\"id\":\"8a54f1cf-21c1-4a23-afd8-dc48761d6d7c\",\"url\":\"https://romanovka.fp.kaspersky-labs.com/ahY5paib/8a54f1cf-21c1-4a23-afd8-dc48761d6d7c?*/af.kaspersky-labs.com/bank/*\"}],\"strategy\":\"SEQUENTIAL\"}]},\"scripts_url\":{\"denyMasks\":[\"https:\\\\/\\\\/ru\\\\.fp\\\\.kaspersky-labs\\\\.com/das\\\\.js\",\"https:\\\\/\\\\/.*?woopra\\\\.com\"]},\"selfpage\":{\"allowMasks\":[\"^https:\\\\/\\\\/\",\"http.*?touchbank\\\\.com\\\\/lk.*\"]},\"ajax\":{\"uriBlocked\":[\"https://mc.yandex\",\"https://yandex\",\"tns-counter.ru\",\"https://analytics.google\",\"/tracker\",\"eye.targetads.io\",\"ymetrika1.com\",\"yandexmetrica.com\",\"disk.2gis.com\"]}},\"ports\":[],\"threadData\":{\"bd26914357d8ad98f058d6ce067fe8a1\":{\"lostTracks\":[]}}}"
+        },
+        {
+          "name": "_ym_wv2rf:94863760:0",
+          "value": "1"
+        },
+        {
+          "name": "ajs_user_id",
+          "value": "null"
+        }
+      ]
+    },
+    {
+      "origin": "https://auth.gid.ru",
+      "localStorage": [
+        {
+          "name": "stateVK",
+          "value": "\"GiYyIB1mzIuHeyk37gTWYXtn-QUSvt0ulbmGkC0hjtQ\""
+        },
+        {
+          "name": "YUID",
+          "value": "\"3589a2c4096c97be5d5febaa8a22a6c619f9902d6990fd\""
+        },
+        {
+          "name": "MUID",
+          "value": "\"f7bc5a9a72bdf9657d3bd5d60b5a14b3bee65eb638530d\""
+        },
+        {
+          "name": "showFailureAuthModal",
+          "value": "\"false\""
+        },
+        {
+          "name": "stateSber",
+          "value": "\"GiYyIB1mzIuHeyk37gTWYXtn-QUSvt0ulbmGkC0hjtQ\""
+        },
+        {
+          "name": "user",
+          "value": "{\"phone\":\"+7\",\"email\":\"piminoff.il@yandex.ru\"}"
+        },
+        {
+          "name": "branding_storage",
+          "value": "{\"theme\":\"DARK\",\"background\":\"https://static-sso.gid.ru/sltselob/lafmrgtgpoi/partners/logo/background/e9e44fbe3f744eeabc179c3bd74d875d.png\",\"background_enabled\":true,\"return_url\":\"https://rutube.ru\",\"custom_colors\":null,\"logo\":\"https://static-sso.gid.ru/sltselob/lafmrgtgpoi/partners/logo/logo/d9e2a9ea99e546c7bbf3e4a020deb586.png\",\"logo_service\":\"https://static-sso.gid.ru/sltselob/lafmrgtgpoi/partners/logo/logo_service/bf5e1d5171b24951ade7599a16cd4329.png\",\"branding_header\":\"Вход или регистрация\",\"branding_enabled\":true,\"partner_name\":\"RUTUBE\",\"gid_branding\":false,\"social_confirm_text\":null,\"social_auth\":null,\"personal_data_agreement\":\"https://static-sso.gid.ru/sltselob/pgewqqsaqq/docs/7656c558ffd54ad59b8e6261dc4f8ca1.pdf\",\"personal_data_policy\":\"https://static-sso.gid.ru/sltselob/pgewqqsaqq/docs/af25c90768ff4ff8a8dde149f08d5d2c.pdf\",\"user_agreement\":\"https://static-sso.gid.ru/sltselob/pgewqqsaqq/docs/256935af6df2480c9be26de1fa9d3de8.pdf\",\"extend_agreement\":true,\"legal_entity\":\"ООО «Руформ»\",\"num_key\":false,\"trackers\":[\"tracking_receiver\"],\"external_id\":34,\"personal_info\":\"https://static-sso.gid.ru/sltselob/pgewqqsaqq/docs/a8ce62a6f06d485bb61f0b141493e2d4.pdf\",\"partners_info\":\"https://static-sso.gid.ru/sltselob/pgewqqsaqq/docs/3173b8eb84bc45358cb4be257373d468.pdf\",\"hide_targeting\":false,\"partner_user_agreement\":\"https://rutube.ru/info/agreement/\",\"partner_personal_data_policy\":\"https://rutube.ru/info/privacy/\",\"global_personal_data_agreement\":false,\"global_personal_info\":false,\"csdm\":true}"
+        },
+        {
+          "name": "csdm",
+          "value": "\"654b9c70-8cae-4c47-82fa-b284f49ecedc\""
+        },
+        {
+          "name": "TN1YmY3IWYxUWN2gTYjZDMwYzYmJzND3_D3_wYlhDNxMWY3EGMkVWN5QTYjF",
+          "value": "1MEVlMGNHZHZ1aYFTOURXRx9GUkhGeVFXQ0RmcpFmc6RjR4ZFTyZVSC9lMCNkV0Vkc0d2ND3_D3_wRXBXWVx0NBJ3crJUOllldSFnafJjRFhzXyIkYPdEN6ZzZD9lMCJ3bKVWSB91ME9"
+        },
+        {
+          "name": "weioruty",
+          "value": "{\"session\":{\"id\":\"43252f94-0694-497d-a341-04a8c8f9acc7\",\"P\":true,\"la\":\"server\"},\"loginCount\":0,\"settings\":{\"baiting\":{\"configurationId\":\"446f8d2e-8901-4a10-b141-491a2c7797cf\",\"requestIntervalMs\":2500,\"sets\":[{\"pages\":[{\"hash\":\"dc6579f059644330876665454cb88de5f0bb0b6f\",\"id\":\"d2bd655f-370c-46ee-872c-858c0bfd3bfa\",\"url\":\"https://romanovka.fp.kaspersky-labs.com/ahY5paib/d2bd655f-370c-46ee-872c-858c0bfd3bfa?touchbank.com/lk**touchbank.com/lk/login**touchbank.com/lk/transactions/trans**touchbank.com/lk/cards/account\"},{\"hash\":\"d19792e4a136d5731b108fbe3691440f417d9b33\",\"id\":\"33df4639-6425-410a-a1b0-c1af6fe676f1\",\"url\":\"https://romanovka.fp.kaspersky-labs.com/ahY5paib/33df4639-6425-410a-a1b0-c1af6fe676f1?*wellsfargo.com/**banquepopulaire.fr/**www.unfcu.org**e-gold.com/acct/login.asp**/accesd.desjardins.com**moneybookers.com/app/login.pl**/bgzweb/auth/login/sub**/easypay.by/**.entropay.com/basemenu/prot/**poste.it/**commerceonlinebanking.com**usaa.com/**ipko.pl**fineco.it/**bnpparibas.net/**bancaintesa.it/**cibc.com*SignOn**abbeynational.co.uk/EBAN_ENS/BtoChannelDriver*http*easywebsoc.td.com*http*pnc.com*http*://*suntrust.com/*http*bmo.com*http*capitalone.com*http*://*chase.com/**paypal.com*http*cibconline.cibc.com**.smile.co.uk/SmileWeb/login.do*ybonline.co.uk/ralu/reglm-web/setupSecurityQuestionPage**onlinebanking.capitalone.com/capitalone/login.aspx*nationet.com/AppServices/SignOn/SignOnProcess/RcaSignOn**hsbc.com**royalbank.com/wps/myportal**bmo.com**tdcanadatrust.com**servicing*capitalone*accounts**americanexpress.com/myca/*accountSummary.do**ceowt.wellsfargo.com**usbank.com/internetBanking/RequestRouter*schwab.com/**discovercard.com/**tdameritrade.com/**pnc.com/**wachovia.com/**53.com/**login.fidelity.com/ftgw/Fas/Fidelity/RtlCust/Login/Init?AuthRedUrl=**accountonline.com/**huntington.com/**scottrade.com/**personal.vanguard.com/us/hnwnesc/nesc/LoginPage?**scotiaonline.scotiabank.com/**creditcards.citi.com/**personal.vanguard.com/us/home?fromPage=portal*cibc.com/**americanexpress.com/**td.com/waw/idp/login.htm?**royalbank.com/cgi-bin/rbaccess/rbunxcgi*http*://*bankofamerica.com/**key.com/**bvi.bnc.ca/auth/Login**signin.ebay.com/ws/eBayISAPI.dll?SignIn*\"},{\"hash\":\"4c5fc969ad24643849a67d0395fdb5b17a89a37a\",\"id\":\"65f7c1c6-d3f4-48bc-b0e3-fec8d0c39175\",\"url\":\"https://romanovka.fp.kaspersky-labs.com/ahY5paib/65f7c1c6-d3f4-48bc-b0e3-fec8d0c39175?*onlinebanking.tdbank.com/*ebanking-services.com.*.aspx*chase.com/**wellsfargo.com/**online.citibank.com/**in-biz.it/**mybusinessbank.co.uk**bankcardservices.co.uk*co-operativebank.co.uk**cahoot.com*http*://*online.ybs.co.uk**npbs.co.uk**mbna.co.uk**.nationet.com/**ib.fineco.it/FinecoWeb/jsp/Main/HBFineco.jsp**altergold.com/login.php**smile.**alliance-leicester*http*://*credem.it/OneToOne/ebank/functions*chaseonline.chase.com/gw/secure/enaonline.wellsfargo.com/das/cgi-bin/session.cgi?sessargs=+online.citibank.com/.*/(.*/portal/Home.do|.*/ain/dashboard/flow.action|signon/ProcessUsernameSignon.do|signon/Agreement.do|signon/CheckTandC.do)myaccounts.navyfederal.org/NFCU/accounts/accountsummarywellsoffice.wellsfargo.com/ceoportal/signon/index.jsptroweprice.com/(rws/participants/apps/segment.jsp?name=iverify|rws/participants/apps/segments/iverify/iverify.do|.*rws/participants/goto/myaccount/|.*rws/participants/goto/my account/)us.etrade.com/.*/accounts/accountscombodiscovercard.com/cardmembersvcs/personalprofile/pp/MyProfilePage*royalbank.com**moneybookers.com/app/login.pl*frostcashmanager.com/pub/html/login.htmlcmo.cibc.com/wp/wps/portalwww8.comerica.combusinessonline.huntington.comgateway.firstbanks.com/pub/html/login.htmlinvest.ameritrade.com/grid/p/sitenetconnect.bokf.com/bbwsignatureny.web-access.com/signatbankofamerica.com/customer/manageContacts/view-profile.goonlinebanking.usbank.com/.*/CustomerDashboard/Index\"},{\"hash\":\"e256f0e14e1b2e66257d2f2942756734cd6a63ce\",\"id\":\"a503cbc3-6b8e-41f4-8129-8110c8871752\",\"url\":\"https://romanovka.fp.kaspersky-labs.com/ahY5paib/a503cbc3-6b8e-41f4-8129-8110c8871752?cashproonline.bankofamerica.comsso.unionbank.com/obc/forms/password.fccktt.key.com/ktt/cmd/logonrabobank.web-cashplus.com/pub/html/login.htmlwww.treasury.pncbank.com/idp/esec/login.ht/onlineserv/CMbusinessaccess.citibank.citigroup.com/cbusol/signon.dowww.scotiaconnect.scotiabank.com/.*.(jsp|bns)client.schwab.com/Accounts/hwtreasurysolution.com/pub/html/login.htmlamazon.com/ap/signin(businessbanking|businessbankingsoc).tdcommercialbanking.com/WBB/Loginsuntrust.com/portal/server.pt?space=Login*banking.bank1saar.de*fiabusinesscard.com/cgi-bin/ias/A/hsbccreditcard.com/ecare/viewaccounthrsaccount.com/hrs/ecare;jsessionidcitizensbankonline.com/efs/servlet/efsonline/index.jspinternetbanking.suncorpbank.com.au/.*/Accountscapitalonecardservice.com/ecare/onlinebanking.pnc.com/alservlet/MyAccountsServletocfcu.org/tob/live/usp-core/app/homeconsumercenter.gogecapital.com/consumercenter/homeaction.doonlineaccess1.com/.*/Accounts/AccountOverview.aspxibsnetaccess.com/NASApp/NetAccess/RegisteredAccountsDisplaywww.53.com/siteeasyweb.*.tdcanadatrust.com/.*(MaintainSecurityOptions|FinancialSummary|ChangeAddressDisplay).*secure.ally.com/allyWebClient/updatePersonalInformation.dofps.fidelity.com/ftgw/Fps/Fidelity/RSAAnalyzeChallengeRetail/Maintain/Initus.hsbc.com/1/2/!ut/servicing.capitalone.com/C1/Accounts/Summary.aspxibsnetaccess.com/NASApp/NetAccess/(ProfileMenu|RegisteredAccountsDisplay)bankofamerica.com/customer/changeAddressPhone/ibsnetaccess.com/NASApp/NetAccess/ProfileMenu\"},{\"hash\":\"323913e939ec62411ddca02f8f51b78a2c32eac1\",\"id\":\"04633925-91af-48e4-962a-16bf4c9ba302\",\"url\":\"https://romanovka.fp.kaspersky-labs.com/ahY5paib/04633925-91af-48e4-962a-16bf4c9ba302?securebank.regions.com/custservices/ChangeQuestionAnswers.aspxonlinebanking.tdbank.com/accts/getAccts.aspusaa.com/inet/(ent_securityprefs/SecurityPreferences|ent_auth_secques/SecurityPreferences)*online.westpac.com.au/esis/Login/SrvPag*(access.jpmorgan.com/jpmalogon|access.jpmorgan.com/jpmaonline|jpmorganaccess.com|tssportal.jpmorgan.com)*dafbanking.deutsche-bank.pt*https*internetbanking.gad.de*http*dab-bank.de**personal.vanguard.com/us/home?fromPage=portal*key.com/*http*://sitekey.bankofamerica.com/*/signonSetup.do*schwab.com/**personal.vanguard.com/us/hnwnesc/nesc/LoginPage?*https*banking.sparda.de**usbank.com/internetBanking/RequestRoutercommerceconnections.commercebank.com/ibank/cmserver/welcome/default/verify.cfmtdetreasury.tdbank.comrbs.com/wps/portal/(cb|cob)*kunde.comdirect.de**raiffeisen*.at/group/club**netbanking.sparkasse.at/sportal/**.de/portal/portal**.chase.com/MyAccounts*securebank.regions.com/balances/AccountSummary.aspxbankofamerica.com/customer/changeAddressPhone/!chaseonline.chase.com/gw/secure/enabarclaycardus.com/servicing/accountSummaryibank.pcs-sd.net/onlinebanking.*/acctlist.wasdtkn=onlinebanking.pnc.com/alservlet/MyAccountsServlet*ebanking.bawag.com*http*://*mijn.ing.nl/**.npbs.co.uk/netmastergoldbanking/**secure.lloydstsb.co.uk/personal/a/account_overview**.nwolb.*login.aspx?refererident**psk.co.at/*banking.postbank.de/rai/cryptbanking.ing-diba.de/app/loginonline.mbank.pl/plptlweb/WebPortal*meine.norisbank.de/trxm/noris*http*targobank.de/*\"},{\"hash\":\"0f9601c1912480f86cd1ebb3d6c41a9e5fdc2fd9\",\"id\":\"8a723953-fb71-4c77-bb46-54597c509962\",\"url\":\"https://romanovka.fp.kaspersky-labs.com/ahY5paib/8a723953-fb71-4c77-bb46-54597c509962?*hsbc.com**myaccount/INGDirect/login_pinpad.vm**rabobank.nl**mijn.ing.nl**bancoestado.cl/*/13960.asphttp*://*my.hypovereinsbank.de/**chase.com**citibank**moneybookers.com/app/login.pl*disabled://direct1.82bank.co.jp/HCIH0*/BankIH**ptlweb/webportal**commerzbank.de**banking.sparda.de/wps/loggedout.jsp**netbank.de**wellsfargo.com/**.de/portal/portal/**paypal.com*http*://*wellsfargo.com/*http*://*mijn.ing.nl/*http*://*bankofamerica.com/**online.wellsfargo.com/das/cgi-bin/session.cgi**.de/cgi/login.cgi\"},{\"hash\":\"6baa6f37d4208ab5be5cbb68ef5492cce54666ba\",\"id\":\"8a54f1cf-21c1-4a23-afd8-dc48761d6d7c\",\"url\":\"https://romanovka.fp.kaspersky-labs.com/ahY5paib/8a54f1cf-21c1-4a23-afd8-dc48761d6d7c?*/af.kaspersky-labs.com/bank/*\"}],\"strategy\":\"SEQUENTIAL\"}]},\"scripts_url\":{\"denyMasks\":[\"https:\\\\/\\\\/ru\\\\.fp\\\\.kaspersky-labs\\\\.com/das\\\\.js\",\"https:\\\\/\\\\/.*?woopra\\\\.com\"]},\"selfpage\":{\"allowMasks\":[\"^https:\\\\/\\\\/\",\"http.*?touchbank\\\\.com\\\\/lk.*\"]},\"ajax\":{\"uriBlocked\":[\"https://mc.yandex\",\"https://yandex\",\"tns-counter.ru\",\"https://analytics.google\",\"/tracker\",\"eye.targetads.io\",\"ymetrika1.com\",\"yandexmetrica.com\",\"disk.2gis.com\"]}},\"ports\":[],\"threadData\":{\"bd26914357d8ad98f058d6ce067fe8a1\":{\"lostTracks\":[]}}}"
+        }
+      ]
+    },
+    {
+      "origin": "https://id.vk.ru",
+      "localStorage": [
+        {
+          "name": "deviceId",
+          "value": "XR8pDfeV7jT7YLp2JvK3D"
+        },
+        {
+          "name": "tracer-device-id",
+          "value": "d2365c7e-661d-48f3-9f8e-39427415e0b5"
+        }
+      ]
+    }
+  ]
+}
