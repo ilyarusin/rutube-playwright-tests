@@ -93,7 +93,7 @@
     - list "Cкачать приложения":
       - listitem:
         - link "Google Play":
-          - /url: https://redirect.appmetrica.yandex.com/serve/822089280250761172?client_id=1777130246263153667&utm_source=rutube.ru&utm_medium=referral&utm_campaign=landing_app
+          - /url: https://redirect.appmetrica.yandex.com/serve/822089280250761172?client_id=1777302974963632917&utm_source=rutube.ru&utm_medium=referral&utm_campaign=landing_app
           - paragraph: Google Play
       - listitem:
         - link "Ярлык для iOS":
@@ -101,19 +101,19 @@
           - paragraph: Ярлык для iOS
       - listitem:
         - link "Huawei":
-          - /url: https://redirect.appmetrica.yandex.com/serve/389285442492612095?client_id=1777130246263153667&utm_source=rutube.ru&utm_medium=referral&utm_campaign=landing_app
+          - /url: https://redirect.appmetrica.yandex.com/serve/389285442492612095?client_id=1777302974963632917&utm_source=rutube.ru&utm_medium=referral&utm_campaign=landing_app
           - paragraph: Huawei
       - listitem:
         - link "RuStore":
-          - /url: https://redirect.appmetrica.yandex.com/serve/533400622968373086?client_id=1777130246263153667&utm_source=rutube.ru&utm_medium=referral&utm_campaign=landing_app
+          - /url: https://redirect.appmetrica.yandex.com/serve/533400622968373086?client_id=1777302974963632917&utm_source=rutube.ru&utm_medium=referral&utm_campaign=landing_app
           - paragraph: RuStore
       - listitem:
         - link "RuMarket":
-          - /url: https://redirect.appmetrica.yandex.com/serve/389285425212041727?client_id=1777130246263153667&utm_source=rutube.ru&utm_medium=referral&utm_campaign=landing_app
+          - /url: https://redirect.appmetrica.yandex.com/serve/389285425212041727?client_id=1777302974963632917&utm_source=rutube.ru&utm_medium=referral&utm_campaign=landing_app
           - paragraph: RuMarket
       - listitem:
         - link "Galaxy Store":
-          - /url: https://redirect.appmetrica.yandex.com/serve/605458194927465783?client_id=1777130246263153667&utm_source=rutube.ru&utm_medium=referral&utm_campaign=landing_app
+          - /url: https://redirect.appmetrica.yandex.com/serve/605458194927465783?client_id=1777302974963632917&utm_source=rutube.ru&utm_medium=referral&utm_campaign=landing_app
           - paragraph: Galaxy Store
   - paragraph: Больше от RUTUBE
   - list "Секция инструкции":

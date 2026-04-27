@@ -32,7 +32,7 @@ test("Проверка доступности элементов попапа у
   await mainPage.notificationsPopUpHasCorrectAriaSnapshot();
 });
 
-test.fail("Проверка доступности элементов раскрытого меню неавторизованного пользователя", async ({
+test("Проверка доступности элементов раскрытого меню неавторизованного пользователя", async ({
   mainPage,
 }) => {
   await mainPage.openFullMenu();
