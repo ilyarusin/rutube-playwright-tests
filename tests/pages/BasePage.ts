@@ -37,7 +37,7 @@ export class BasePage {
     screenshotName: string,
   ) {
     await expect(locator).toHaveScreenshot(screenshotName, {
-      timeout: 15000,
+      timeout: 15000
     });
   }
 
