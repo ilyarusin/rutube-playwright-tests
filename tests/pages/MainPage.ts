@@ -60,7 +60,7 @@ export class MainPage extends BasePage {
   // actions
 
   async open() {
-    await this.page.goto("https://rutube.ru/");
+    await this.page.goto("/");
   }
 
   async openHeaderUserMenu() {

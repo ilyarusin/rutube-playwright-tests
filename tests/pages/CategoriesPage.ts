@@ -1,4 +1,4 @@
-import { expect, Locator, Page } from "@playwright/test";
+import { Locator, Page } from "@playwright/test";
 import { BasePage } from "./BasePage";
 
 export class CategoriesPage extends BasePage {
@@ -10,7 +10,7 @@ export class CategoriesPage extends BasePage {
   }
 
   async open() {
-    await this.page.goto("https://rutube.ru/categories/");
+    await this.page.goto("/categories/");
   }
 
   async contentPageHasCorrectLayout() {

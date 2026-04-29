@@ -10,7 +10,7 @@ export class SubscriptionsPage extends BasePage {
   }
 
   async open() {
-    await this.page.goto('https://rutube.ru/my/subscriptions/');
+    await this.page.goto('/my/subscriptions/');
   }
 
   async contentHasCorrectAriaSnapshot() {
